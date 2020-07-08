@@ -3,6 +3,7 @@
     margin:0;
     padding:0;
 }
+@media only screen and (min-width:600px){
 body{
     font-family:  'Nunito Sans', sans-serif;
     background:linear-gradient(pink 0% ,violet 100%)
@@ -28,6 +29,6 @@ div a{
 }
 h2,p{
     padding: 10px;
-}
+    }}
     
    
